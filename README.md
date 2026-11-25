@@ -138,16 +138,20 @@ Diyathalawa M.M.V. · 2019
 
 ## 🌍 Languages
 
-🇬🇧 English — Fluent · 🇱🇰 Sinhala — Fluent · Tamil — Basic
+| Language | Proficiency |
+|:--|:--|
+| English | Fluent |
+| Sinhala | Fluent |
+| Tamil | Basic |
 
 ## 🤝 Let’s Connect
 
-I am open to Associate Software Engineer and full-stack development opportunities. I am also happy to discuss .NET, database engineering, enterprise applications, and software architecture.
+I’m open to **Associate Software Engineer** and **full-stack development** opportunities. I’m always happy to discuss .NET, database engineering, enterprise applications, and software architecture.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deshithanayanajith.vercel.app-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deshithanayanajith.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deshitha_Nayanajith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshitha-nayanajith-4a96bb1b5)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for(--for-the-badge&logo=gmail&logoColor=white)](mailto:deshithanayanajith@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deshithanayanajith.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshitha-nayanajith-4a96bb1b5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshithanayanajith@gmail.com)
 
 </div>
