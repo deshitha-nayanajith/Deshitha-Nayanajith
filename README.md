@@ -1,111 +1,114 @@
 <div align="center">
 
-# Hi, I'm Deshitha Nayanajith 👋
+# Deshitha Nayanajith
 
-### Associate Software Engineer · Full-Stack Developer · .NET Specialist
+**Associate Software Engineer · Full-Stack Developer · .NET Specialist**
 
-*Building reliable enterprise software, one clean query and one clean API at a time.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deshithanayanajith.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshitha-nayanajith-4a96bb1b5)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshithanayanajith@gmail.com)
 
-<p>
-  <a href="https://deshithanayanajith.vercel.app">🌐 Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/deshitha-nayanajith-4a96bb1b5">💼 LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:deshithanayanajith@gmail.com">✉️ Email</a>
-</p>
-
-<p>📍 Malabe, Sri Lanka &nbsp;·&nbsp; 🟢 Open to work</p>
+📍 Malabe, Sri Lanka · 🟢 Open to opportunities
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About
 
-I'm a **BSc (Hons) Information Technology graduate from SLIIT** with hands-on full-stack experience gained across **two enterprise internships**. I work primarily with **.NET, C#, Entity Framework and LINQ**, backed by strong relational database skills in **MS SQL Server, MySQL and Oracle (PL/SQL)**.
+I am a BSc (Hons) in Information Technology graduate from SLIIT and an Associate Software Engineer with hands-on experience across two enterprise internships.
 
-- 🔧 I design and deploy **REST/JSON web services** and connect front-end interfaces to robust back-end systems
-- 🏦 I've built software for **financial stock exchange operations** at the Colombo Stock Exchange
-- ⚡ I write **optimized stored procedures** that dramatically reduce data processing times
-- 🤝 I thrive in **Agile/Scrum** teams, peer code reviews, and delivering reliable, tested software
-- 🎯 Currently seeking opportunities as an **Associate Software Engineer**
+My work focuses on building dependable, maintainable software with .NET and C#, while combining strong database knowledge with modern full-stack development practices. I am especially interested in enterprise applications, RESTful APIs, database optimization, reporting systems, and secure financial systems.
+
+- Build RESTful APIs and full-stack web applications
+- Optimize SQL and PL/SQL for faster, scalable data processing
+- Develop maintainable solutions using OOP and MVC principles
+- Collaborate through Agile/Scrum workflows and peer code reviews
+- Apply testing, validation, and security fundamentals throughout development
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### .NET & Web
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-68217A?style=for-the-badge&logo=visualstudio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend & Enterprise Development
 
-### Databases
-![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=nuget&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-68217A?style=flat-square&logo=visualstudio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Languages, Frameworks & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### Frontend & Mobile
 
-### Practices
-`Full-Stack Development` · `Agile / Scrum` · `SDLC` · `OOP` · `Peer Code Review` · `Unit & Application Testing` · `Cybersecurity Fundamentals`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Databases & Cloud
+
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### Tools & Practices
+
+`Git` · `GitHub` · `Visual Studio` · `VS Code` · `Agile / Scrum` · `SDLC` · `OOP` · `MVC` · `Code Review` · `Unit Testing` · `Application Testing`
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Software Engineering Intern — Navitsa Technologies (Pvt) Ltd
-**2025 – 2026**
+### Software Engineering Intern
 
-- Developed and fine-tuned **SQL stored procedures** for efficient data retrieval and fast data processing pipelines
-- Built **dynamic reporting systems** with C# and .NET, delivering clear data visualizations to stakeholders
-- Contributed across the **full stack**, building and maintaining scalable features for corporate web applications
-- Worked with Agile teams to analyze requirements, then design, scale and test solutions
+**Navitsa Technologies (Pvt) Ltd** · 2025–2026
 
-### 🔹 Software Engineering Intern — Colombo Stock Exchange
-**2024 – 2025**
+- Developed and optimized SQL stored procedures for efficient data retrieval and processing.
+- Built dynamic reporting solutions using C# and .NET.
+- Designed, implemented, and maintained features for enterprise web applications.
+- Worked within Agile teams to gather requirements and deliver tested solutions.
 
-- Designed, developed and deployed **ASP.NET web applications** supporting core stock exchange operations
-- Engineered **Oracle PL/SQL stored procedures** and managed scalable tables and views, drastically cutting processing times
-- Built a **full-stack course registration & administration portal** with automated email notifications, Excel exports and approval workflows
-- Designed and deployed **OASYS**, a RESTful API using Oracle-based analytics to **compute and rank broker turnovers in real time**
-- Modelled complex Oracle schemas and built secure UIs for **investor approvals, trade matching and live transaction monitoring** (ECONNECT / CDS Perpetual Bond Module)
-- Maintained existing codebases and took part in peer code reviews to keep quality high
+### Software Engineering Intern
+
+**Colombo Stock Exchange** · 2024–2025
+
+- Developed ASP.NET applications supporting core financial and stock exchange operations.
+- Engineered Oracle PL/SQL procedures, tables, and views to significantly improve processing performance.
+- Built a full-stack course registration and administration portal with approval workflows, automated emails, and Excel exports.
+- Developed OASYS, a RESTful analytics API for real-time broker turnover computation and ranking.
+- Contributed to trading, investor approval, transaction monitoring, and CDS perpetual bond modules.
+- Participated in maintenance, peer reviews, and quality-focused software development.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Technologies |
 |---|---|---|
-| 🎓 **University Management System** | Desktop system with full CRUD on a MySQL relational database, applying OOP principles for an intuitive UI/UX | `C#` `.NET` `MySQL` `Visual Studio` |
-| 💪 **Fitness Web Application** | Secure RESTful platform with user authentication, workout planning and progress logging using MVC architecture | `Spring Boot` `MongoDB` |
-| 🥥 **Coco-Shield Mobile App** | AI-powered app for early crop disease detection, with GPS tracking and live weather APIs | `React Native` `Python` `Firebase` |
-| 👗 **Virtual Dress Room** | AR-based e-commerce app with real-time try-on and a cloud-hosted Firebase backend | `React Native` `Firebase` `AR` |
+| **University Management System** | Desktop application implementing complete CRUD operations and structured database management. | C#, .NET, MySQL, Visual Studio |
+| **Fitness Web Application** | Secure REST-based platform for authentication, workout planning, and progress tracking. | Spring Boot, MongoDB |
+| **Coco-Shield Mobile App** | AI-assisted mobile solution for crop disease detection with GPS and weather integrations. | React Native, Python, Firebase |
+| **Virtual Dress Room** | Augmented reality shopping experience with real-time try-on and cloud-backed data. | React Native, Firebase, AR |
 
-> 📂 Explore the full source on my [GitHub repositories](https://github.com/it21378034?tab=repositories).
+> Explore more projects on [GitHub](https://github.com/deshitha-nayanajith).
 
 ---
 
 ## 🎓 Education
 
-- **BSc (Hons) in Information Technology** — SLIIT, *2022 – 2026*
-- **Advanced Level (Engineering Technology)** — B/Diyathalawa M.M.V, *2019*
+**BSc (Hons) in Information Technology**  
+Sri Lanka Institute of Information Technology · 2022–2026
+
+**Advanced Level — Engineering Technology**  
+Diyathalawa M.M.V. · 2019
+
+---
 
 ## 📜 Certifications
 
@@ -116,35 +119,35 @@ I'm a **BSc (Hons) Information Technology graduate from SLIIT** with hands-on fu
 | Java Programming | Great Learning Academy | 2024 |
 | Web Design for Beginners | University of Moratuwa | 2024 |
 | Introduction to Cybersecurity | Cisco Networking Academy | 2024 |
-| AI/ML (Stage-01) | SLIIT | 2024 |
+| Artificial Intelligence / Machine Learning — Stage 01 | SLIIT | 2024 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=it21378034&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21378034&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deshitha-nayanajith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshitha-nayanajith&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=it21378034&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=deshitha-nayanajith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌐 Languages
+## 🌍 Languages
 
-🇬🇧 English (Fluent) · 🇱🇰 Sinhala (Fluent) · Tamil (Basic)
+🇬🇧 English — Fluent · 🇱🇰 Sinhala — Fluent · Tamil — Basic
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm open to **Associate Software Engineer** and full-stack roles, and always happy to talk about .NET, databases and enterprise software.
+I am open to Associate Software Engineer and full-stack development opportunities. I am also happy to discuss .NET, database engineering, enterprise applications, and software architecture.
 
 <div align="center">
 
-[🌐 Portfolio](https://deshithanayanajith.vercel.app) · [💼 LinkedIn](https://linkedin.com/in/deshitha-nayanajith-4a96bb1b5) · [✉️ Email](mailto:deshithanayanajith@gmail.com)
-
-<sub>⭐ Thanks for visiting my profile!</sub>
+[![Portfolio](https://img.shields.io/badge/Portfolio-deshithanayanajith.vercel.app-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deshithanayanajith.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deshitha_Nayanajith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshitha-nayanajith-4a96bb1b5)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for(--for-the-badge&logo=gmail&logoColor=white)](mailto:deshithanayanajith@gmail.com)
 
 </div>
